@@ -1,4 +1,4 @@
-solutions/*
+solutions/
 **/.env
 **/Dockerfile
 **/docker-compose.yml

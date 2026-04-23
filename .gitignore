@@ -1,0 +1,6 @@
+solutions/*
+**/.env
+**/Dockerfile
+**/docker-compose.yml
+
+.idea

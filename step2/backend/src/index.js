@@ -6,7 +6,7 @@ dotenv.config();
 
 const app = express();
 const port = Number(process.env.BACKEND_PORT || 3002);
-x
+
 const pool = new Pool({
   host: process.env.DB_HOST,
   port: Number(process.env.DB_PORT || 5432),
